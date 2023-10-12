@@ -30,7 +30,7 @@
 		<div class="flex flex-col gap-3">
 			<IconList icon="ph:globe" text="SingularityLabs anywhere, anytime, any device" />
 			<IconList icon="ph:hard-drives" text="No GPU or hardware required" />
-			<IconList icon="ph:smiley" text="Face Enhancement" />
+			<IconList icon="ph:smiley" text="Productivity Report" />
 			<IconList icon="ph:butterfly" text="10+ models to choose from" />
 			<IconList icon="ph:gauge" text="5x faster than SingularityLabs Desktop" />
 			<IconList icon="ph:video" text="Video Upscaling" />

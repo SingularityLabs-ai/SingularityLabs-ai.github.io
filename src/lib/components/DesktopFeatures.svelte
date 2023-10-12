@@ -8,10 +8,10 @@
 >
 	<div class="flex flex-col gap-8 pb-20 md:py-20">
 		<h3 class="text-4xl font-semibold leading-snug text-slate-300">
-			Good is not good enough. <br /><span class="text-slate-50">Make it better!</span>
+			Multiple platforms supported. <br /><span class="text-slate-50">Choose your favourite one!</span>
 		</h3>
 		<p class="max-w-lg text-xl font-light text-slate-300">
-			With state of the art AI, SingularityLabs helps you turn low resolution images into high resolution.
+			With state of the art AI, SingularityLabs aims to maximise your productivity while accessing the web.
 			Crisp and sharp!
 		</p>
 
