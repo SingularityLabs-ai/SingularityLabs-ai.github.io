@@ -49,20 +49,20 @@
 						<a href="https://github.com/SingularityLabs-ai" target="_blank" rel="noreferrer"
 							>GitHub Open Source</a
 						>
-						<a href="https://github.com/SingularityLabs-ai/singularitylabs/wiki">Wiki</a>
+						<a href="https://github.com/SingularityLabs-ai/singularitylabs-ai/wiki">Wiki</a>
 					</div>
 				</div>
 
 				<div class="flex flex-col gap-4 break-all p-4 text-slate-300">
 					<b>Support</b>
 					<div class="flex flex-col gap-2 text-sm">
-						<a href="https://github.com/SingularityLabs-ai/singularitylabs/#-faq" target="_blank" rel="noreferrer"
+						<a href="https://github.com/SingularityLabs-ai/singularitylabs-ai/#-faq" target="_blank" rel="noreferrer"
 							>FAQ</a
 						>
 						<a href="mailto:nayam.emikx@aleeas.com"
 							>Email: <span class="text-slate-400">nayam.emikx@aleeas.com</span></a
 						>
-						<a href="https://github.com/orgs/singularitylabs/discussions" target="_blank" rel="noreferrer"
+						<a href="https://github.com/orgs/singularitylabs-ai/discussions" target="_blank" rel="noreferrer"
 							>GitHub Discussion</a
 						>
 						<a href="https://t.me/iamnayam" target="_blank" rel="noreferrer">Telegram</a>
