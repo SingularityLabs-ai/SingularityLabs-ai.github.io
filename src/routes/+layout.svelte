@@ -74,7 +74,7 @@
 
 			<div class="mt-3 flex flex-row items-center justify-center text-sm text-slate-400">
 				Copyright &copy; {new Date().getFullYear()}&nbsp;
-				<a href="https://SingularityLabs-ai.github.io">SingularityLabs</a>
+				<a href="https://github.com">SingularityLabs</a>
 			</div>
 
 			<!-- <div class="flex flex-col gap-4 p-4 text-slate-300">

@@ -1,5 +1,5 @@
 {
-	"name": "SingularityLabs-ai.github.io",
+	"name": "SingularityLabs",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
