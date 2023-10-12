@@ -25,10 +25,10 @@
                 return (0, a.jsxs)(a.Fragment, {
                     children: [(0, a.jsxs)(o(), {
                         children: [(0, a.jsx)("title", {
-                            children: "SingularityLabs - AI Image Upscaler"
+                            children: "SingularityLabs - AI Infrastructure & Tooling"
                         }), (0, a.jsx)("meta", {
                             name: "description",
-                            content: "SingularityLabs - Free and Open Source AI Image Upscaler"
+                            content: "SingularityLabs - Free and Open Source AI Infrastructure & Tooling"
                         }), (0, a.jsx)("link", {
                             rel: "icon",
                             type: "image/png",
@@ -41,10 +41,10 @@
                             content: "https://SingularityLabs-ai.github.io"
                         }), (0, a.jsx)("meta", {
                             name: "twitter:title",
-                            content: "SingularityLabs - Free and Open Source AI Image Upscaler"
+                            content: "SingularityLabs - Free and Open Source AI Infrastructure & Tooling"
                         }), (0, a.jsx)("meta", {
                             name: "twitter:description",
-                            content: "Free and Open Source AI Image Upscaler for Linux, MacOS and Windows"
+                            content: "Free and Open Source AI Infrastructure & Tooling for Linux, MacOS and Windows"
                         }), (0, a.jsx)("meta", {
                             name: "twitter:image",
                             content: "https://SingularityLabs-ai.github.io/ogimage.png"
@@ -53,10 +53,10 @@
                             content: "website"
                         }), (0, a.jsx)("meta", {
                             property: "og:title",
-                            content: "SingularityLabs - Free and Open Source AI Image Upscaler"
+                            content: "SingularityLabs - Free and Open Source AI Infrastructure & Tooling"
                         }), (0, a.jsx)("meta", {
                             property: "og:description",
-                            content: "Free and Open Source AI Image Upscaler for Linux, MacOS and Windows"
+                            content: "Free and Open Source AI Infrastructure & Tooling for Linux, MacOS and Windows"
                         }), (0, a.jsx)("meta", {
                             property: "og:site_name",
                             content: "SingularityLabs"
