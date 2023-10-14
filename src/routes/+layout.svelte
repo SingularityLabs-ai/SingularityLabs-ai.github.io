@@ -65,7 +65,7 @@
 						<a href="https://github.com/orgs/singularitylabs-ai/discussions" target="_blank" rel="noreferrer"
 							>GitHub Discussion</a
 						>
-						<a href="https://t.me/iamnayam" target="_blank" rel="noreferrer">Telegram</a>
+						<a href="https://discord.gg/jc4xtF58Ve" target="_blank" rel="noreferrer">Discord</a>
 					</div>
 				</div>
 			</div>
