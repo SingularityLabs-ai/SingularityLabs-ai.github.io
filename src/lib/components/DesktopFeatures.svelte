@@ -22,8 +22,8 @@
 			<IconList icon="ph:leaf" text="Free and Open Source" />
 		</div>
 	</div>
-	
-	<div id="image-container" class="max-h-96 max-w-2xl">
+
+	<div id="image-container" class="max-h-96 max-w-2xl -right-1/4">
 		<img src="/singularitylabs-desktop.png" alt="SingularityLabs Desktop Screenshot" class="lg:ml-16" />
 	</div>
 </div>
