@@ -14,7 +14,7 @@
 			With state of the art AI, SingularityLabs aims to maximise your productivity while accessing the web.
 			Crisp and sharp!
 		</p>
-		<div id="image-container" class="max-h-full	max-w-xl -right-1/4 left-1/2 lg:absolute">
+		<div id="image-container" class="flex flex-col gap-4 max-h-full max-w-xl -right-1/4 left-1/2 lg:absolute">
 			<img src="/singularitylabs-desktop.png" alt="SingularityLabs Desktop Screenshot" class="lg:ml-16" />
 		</div>
 <!--
@@ -27,7 +27,7 @@
 -->
 	</div>
 <!--
-	<div id="image-container" class="max-h-full	max-w-xl -right-1/4 left-1/2 lg:absolute">
+	<div id="image-container" class="max-h-full max-w-xl -right-1/4 left-1/2 lg:absolute">
 		<img src="/singularitylabs-desktop.png" alt="SingularityLabs Desktop Screenshot" class="lg:ml-16" />
 	</div>
 -->
