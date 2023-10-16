@@ -23,7 +23,7 @@
 		</div>
 	</div>
 
-	<div id="image-container" class="max-h-96 max-w-2xl -right-1/4">
+	<div id="image-container" class="max-h-96 max-w-2xl -right-1/4 left-1/2 lg:absolute">
 		<img src="/singularitylabs-desktop.png" alt="SingularityLabs Desktop Screenshot" class="lg:ml-16" />
 	</div>
 </div>
