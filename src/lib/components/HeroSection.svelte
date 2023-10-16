@@ -75,12 +75,14 @@
 				style="--position: {sliderPosition}%"
 			>
 				<div id="image-container" class="max-h-96 max-w-2xl">
+<!--
 					<img
 						id="image-before"
 						src="/low.jpg"
 						alt=""
 						class="absolute inset-0 h-full rounded-xl object-cover object-left"
 					/>
+-->
 					<img
 						id="image-after"
 						src="/high.jpg"
@@ -88,6 +90,7 @@
 						class="h-full w-full object-cover object-left"
 					/>
 				</div>
+<!--
 				<input
 					type="range"
 					min="01"
@@ -108,6 +111,7 @@
 					id="slider-line"
 					class="pointer-events-none absolute inset-0 z-10 w-1 -translate-x-1/2 scale-125 rounded-full bg-white/50 backdrop-blur-xl"
 				/>
+-->
 			</div>
 		</div>
 	</div>
