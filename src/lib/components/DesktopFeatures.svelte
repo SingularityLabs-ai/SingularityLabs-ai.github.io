@@ -14,16 +14,21 @@
 			With state of the art AI, SingularityLabs aims to maximise your productivity while accessing the web.
 			Crisp and sharp!
 		</p>
-
+		<div id="image-container" class="max-h-full	max-w-xl -right-1/4 left-1/2 lg:absolute">
+			<img src="/singularitylabs-desktop.png" alt="SingularityLabs Desktop Screenshot" class="lg:ml-16" />
+		</div>
+<!--
 		<div class="flex flex-col gap-4">
 			<IconList icon="ph:wifi-slash" text="No internet required" />
 			<IconList icon="ph:list-checks" text="5+ Modes" />
 			<IconList icon="ph:paint-brush" text="Fully Customizable" />
 			<IconList icon="ph:leaf" text="Free and Open Source" />
 		</div>
+-->
 	</div>
-
+<!--
 	<div id="image-container" class="max-h-full	max-w-xl -right-1/4 left-1/2 lg:absolute">
 		<img src="/singularitylabs-desktop.png" alt="SingularityLabs Desktop Screenshot" class="lg:ml-16" />
 	</div>
+-->
 </div>
