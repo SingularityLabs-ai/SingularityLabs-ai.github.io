@@ -181,7 +181,12 @@
 
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
             We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:
-        <li class="list-square"> <b> Cookies or Browser Cookies.</b> A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.</li><li class="list-square"><b> Web Beacons.</b> Certain sections of our Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).</li></p>
+        </p>
+
+        <div class="text-left text-slate-400 sm:max-w-2xl sm:text-xl flex flex-col gap-2">
+            <li class="list-square"> <b> Cookies or Browser Cookies.</b> A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.</li>
+            <li class="list-square"><b> Web Beacons.</b> Certain sections of our Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).</li>
+        </div>
 
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
             Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on Your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser.
@@ -220,7 +225,7 @@
         <h5 class="text-left text-xl font-semibold text-slate-200 sm:text-xl">
         The Company may use Personal Data for the following purposes:
         </h5>
-        <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
+        <div class="text-left text-slate-400 sm:max-w-2xl sm:text-xl flex flex-col gap-2">
             <li class="list-square">
                 <b>To provide and maintain our Service</b>, including to monitor the usage of our Service.
             </li>
@@ -245,12 +250,12 @@
             <li class="list-square">
                 <b>For other purposes</b>: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
             </li>
-        </p>
+        </div>
         <h5 class="text-left text-xl font-semibold text-slate-200 sm:text-xl">
         We may share Your personal information in the following situations:
         </h5>
 
-        <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
+        <div class="text-left text-slate-400 sm:max-w-2xl sm:text-xl flex flex-col gap-2">
             <li class="list-square">
                 <b>With Service Providers:</b> We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.
             </li>
@@ -269,7 +274,7 @@
             <li class="list-square">
                 <b>With Your consent</b>: We may disclose Your personal information for any other purpose with Your consent.
             </li>
-        </p>
+        </div>
 
         <h1 class="text-left text-3xl font-semibold text-slate-200 sm:text-5xl">
             Retention of Your Personal Data
@@ -339,7 +344,7 @@
         <h5 class="text-left text-xl font-semibold text-slate-200 sm:text-xl">
         The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
         </h5>
-        <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
+        <div class="text-left text-slate-400 sm:max-w-2xl sm:text-xl flex flex-col gap-2">
             <li class="list-square">
                 Comply with a legal obligation
             </li>
@@ -355,7 +360,7 @@
             <li class="list-square">
                 Protect against legal liability
             </li>
-        </p>
+        </div>
 
         <h1 class="text-left text-3xl font-semibold text-slate-200 sm:text-5xl">
             Security of Your Personal Data
