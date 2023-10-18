@@ -8,7 +8,7 @@
 >
 	<div class="flex gap-2">
 		<img src={logo} alt="" class="" />
-		<h5 class="text-lg font-semibold text-slate-100">SingularityLabs</h5>
+		<h5 class="text-lg font-semibold text-slate-100"><a href="https://singularitylabs-ai.github.io">SingularityLabs</a></h5>
 	</div>
 	<div class="hidden gap-10 text-sm text-slate-300 md:flex">
 		<a href="#cloud" class="flex items-center justify-center gap-2"
