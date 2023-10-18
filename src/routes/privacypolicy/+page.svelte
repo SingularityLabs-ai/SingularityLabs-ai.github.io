@@ -7,5 +7,3 @@
 <img src="/background_gradient.png" class="absolute h-full w-full" alt="background gradient" />
 
 <SingularityLabsPrivacypolicSection />
-<DesktopFeatures />
-<DownloadSection />
