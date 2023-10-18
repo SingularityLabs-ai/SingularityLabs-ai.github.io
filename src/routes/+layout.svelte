@@ -59,8 +59,8 @@
 						<a href="https://github.com/SingularityLabs-ai/singularitylabs-ai/#-faq" target="_blank" rel="noreferrer"
 							>FAQ</a
 						>
-						<a href="mailto:nayam.emikx@aleeas.com"
-							>Email: <span class="text-slate-400">nayam.emikx@aleeas.com</span></a
+						<a href="mailto:labssingularity@gmail.com"
+							>Email: <span class="text-slate-400">labssingularity@gmail.com</span></a
 						>
 						<a href="https://github.com/orgs/singularitylabs-ai/discussions" target="_blank" rel="noreferrer"
 							>GitHub Discussion</a

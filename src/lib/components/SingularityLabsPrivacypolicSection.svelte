@@ -413,7 +413,8 @@
 
         <div class="text-left text-slate-400 sm:max-w-2xl sm:text-xl flex flex-col gap-2">
             <li class="list-square">
-                By email: labssingularity@gmail.com
+                <a href="mailto:labssingularity@gmail.com">By Email: <span class="text-slate-400">labssingularity@gmail.com</span>
+                </a>
             </li>
             <li class="list-square">
                 By visiting this page on our : <a  href='https://github.com/SingularityLabs-ai/discussions'> Github Discussions Page </a>
