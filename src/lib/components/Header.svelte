@@ -33,7 +33,7 @@
 			><Icon icon="ph:download-fill" width={20} /> Download</a
 		>
 	</div>
-	<div class="flex items-center justify-center gap-6 text-sm text-slate-300">
+	<div class="flex items-center justify-center gap-2 text-sm text-slate-300">
 		<a
 			href="https://discord.gg/jc4xtF58Ve" target="_blank"
 			class="flex items-center gap-2 rounded-full bg-slate-800 px-3 py-2 text-xs font-medium text-slate-300 ring-1 ring-slate-500 transition-all duration-500 hover:bg-slate-700/70 sm:text-sm"

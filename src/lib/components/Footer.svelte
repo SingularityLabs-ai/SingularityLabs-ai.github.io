@@ -17,10 +17,12 @@
 				<a href="https://github.com/SingularityLabs-ai/singularitylabs-ai/discussions/categories/ideas" target="_blank">I have an idea</a>
 			</div>
 			<hr class="mt-4 border-slate-700" />
-			<b>Legal</b>
+			<b>Social</b>
 			<div class="flex flex-col gap-2 text-sm">
-				<a href="/privacypolicy">Privacy Policy</a>
-				<a href="">Terms of Service</a>
+				<a href="https://twitter.com/labssingularity" target="_blank" rel="noreferrer">Twitter</a>
+				<a href="https://instagram.com/singuaritylabs" target="_blank" rel="noreferrer">Instagram</a>
+				<a href="https://facebook.com/profile.php?id=100094682281956" target="_blank" rel="noreferrer">Facebook</a>
+				<a https://www.linkedin.com/company/singularity-labs-ai" target="_blank" rel="noreferrer">Linkedin</a>
 			</div>
 		</div>
 
@@ -33,11 +35,10 @@
 				<a href="https://discord.gg/jc4xtF58Ve" target="_blank" rel="noreferrer">Discord</a>
 			</div>
 			<hr class="mt-4 border-slate-700" />
-			<b>Social</b>
+			<b>Legal</b>
 			<div class="flex flex-col gap-2 text-sm">
-				<a href="https://twitter.com/labssingularity" target="_blank" rel="noreferrer">Twitter</a>
-				<a href="https://instagram.com/singuaritylabs" target="_blank" rel="noreferrer">Instagram</a>
-				<a href="https://facebook.com/profile.php?id=100094682281956" target="_blank" rel="noreferrer">Facebook</a>
+				<a href="/privacypolicy">Privacy Policy</a>
+				<a href="">Terms of Service</a>
 			</div>
 		</div>
 	</div>
