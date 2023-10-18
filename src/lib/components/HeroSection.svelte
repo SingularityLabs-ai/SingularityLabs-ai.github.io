@@ -38,7 +38,7 @@
 			}}
 		>
 			<img src="/dot.svg" />
-			Introducing SingularityLabs Cloud <Icon icon="ph:arrow-right" width="16px" />
+			Introducing SingularityLabs Browser Addons <Icon icon="ph:arrow-right" width="16px" />
 		</a>
 		<h1
 			class="mt-16 text-5xl font-extralight text-slate-400 sm:text-center md:text-6xl"
@@ -57,7 +57,7 @@
 				delay: 600
 			}}
 		>
-			Supercharging your images with <span class="underline">AI</span>
+			Supercharging your browser with <span class="underline">AI</span>
 		</h4>
 		<!-- <div class="w-[30rem] rounded-xl mt-16 overflow-hidden">
 			<img src={low_res} alt="low_res" class="w-full" />

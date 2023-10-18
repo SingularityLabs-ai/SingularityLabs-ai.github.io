@@ -15,6 +15,7 @@
 			<div class="flex flex-col gap-2 text-sm">
 				<a href="https://github.com/SingularityLabs-ai" target="_blank" rel="noreferrer">GitHub Open Source</a>
 				<a href="https://github.com/SingularityLabs-ai/singularitylabs-ai/discussions/categories/ideas" target="_blank">I have an idea</a>
+				<a href="https://github.com/orgs/singularitylabs-ai/discussions" target="_blank" rel="noreferrer">Discuss</a>
 			</div>
 			<hr class="mt-4 border-slate-700" />
 			<b>Social</b>
@@ -31,7 +32,6 @@
 			<div class="flex flex-col gap-2 text-sm">
 				<a href="/#faq" rel="noreferrer">FAQ</a>
 				<a href="mailto:labssingularity@gmail.com">Email: <span class="text-slate-400">labssingularity@gmail.com</span></a>
-				<a href="https://github.com/orgs/singularitylabs-ai/discussions" target="_blank" rel="noreferrer">GitHub Discussion</a>
 				<a href="https://discord.gg/jc4xtF58Ve" target="_blank" rel="noreferrer">Discord</a>
 			</div>
 			<hr class="mt-4 border-slate-700" />
