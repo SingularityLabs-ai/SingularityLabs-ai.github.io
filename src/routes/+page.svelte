@@ -3,6 +3,7 @@
 	import DownloadSection from '$lib/components/DownloadSection.svelte';
 	import HeroSection from '$lib/components/HeroSection.svelte';
 	import SingularityLabsCloudSection from '$lib/components/SingularityLabsCloudSection.svelte';
+	import FAQSection from '$lib/components/FAQSection.svelte';
 </script>
 
 <img src="/background_gradient.png" class="absolute h-full w-full" alt="background gradient" />
@@ -11,3 +12,5 @@
 <SingularityLabsCloudSection />
 <DesktopFeatures />
 <DownloadSection />
+<FAQSection />
+
