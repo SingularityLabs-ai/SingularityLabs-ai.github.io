@@ -20,15 +20,15 @@
 
     <div class="flex flex-col items-center gap-8">
         <h1 class="text-left text-3xl font-semibold text-slate-200 sm:text-5xl">
-            FAQ <span class="text-base text-slate-400 sm:text-3xl">(detailed)</span>
+            FAQ
         </h1>
 
         <h5 class="text-left text-xl font-semibold text-slate-200 sm:text-xl">
-            Does SingularityLabs monetise our data:
+            Does SingularityLabs monetise our data ?
         </h5>
 
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
-            No.
+            No we don't, our only montization is subscription fees of out paid users
         </p>
     </div>
 </section>
