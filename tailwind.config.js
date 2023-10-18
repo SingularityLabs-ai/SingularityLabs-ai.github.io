@@ -12,7 +12,14 @@ export default {
 			},
 			animation: {
 				marquee: 'marquee 20s linear infinite'
-			}
+			},
+			listStyleType: {
+		      none: 'none',
+		      disc: 'disc',
+		      decimal: 'decimal',
+		      square: 'square',
+		      roman: 'upper-roman',
+		    }
 		}
 	},
 	plugins: []
