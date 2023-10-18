@@ -17,7 +17,6 @@
 </script>
 
 <section class="mt-20 flex min-h-screen max-w-full flex-col gap-10 overflow-hidden px-4 md:px-0" id="cloud">
-    <h5 class="text-center text-xs font-bold uppercase text-slate-500">Introducing SingularityLabs Cloud</h5>
 
     <div class="flex flex-col items-center gap-8">
         <h1 class="text-left text-3xl font-semibold text-slate-200 sm:text-5xl">
@@ -242,7 +241,6 @@
         <h5 class="text-left text-xl font-semibold text-slate-200 sm:text-xl">
         The Company may use Personal Data for the following purposes:
         </h5>
-
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
             <li class="list-square">
                 <b>To provide and maintain our Service</b>, including to monitor the usage of our Service.
@@ -269,7 +267,6 @@
                 <b>For other purposes</b>: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
             </li>
         </p>
-
         <h5 class="text-left text-xl font-semibold text-slate-200 sm:text-xl">
         We may share Your personal information in the following situations:
         </h5>
