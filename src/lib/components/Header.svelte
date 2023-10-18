@@ -8,13 +8,13 @@
 >
 	<div class="flex gap-2">
 		<img src={logo} alt="" class="" />
-		<h5 class="text-lg font-semibold text-slate-100"><a href="https://singularitylabs-ai.github.io">SingularityLabs</a></h5>
+		<h5 class="text-lg font-semibold text-slate-100"><a href="/">SingularityLabs</a></h5>
 	</div>
 	<div class="hidden gap-10 text-sm text-slate-300 md:flex">
-		<a href="#cloud" class="flex items-center justify-center gap-2"
+		<a href="/#cloud" class="flex items-center justify-center gap-2"
 			><Icon icon="ph:cloud-fill" width={20} /> Cloud</a
 		>
-		<a href="#desktop" class="flex items-center justify-center gap-2"
+		<a href="/#desktop" class="flex items-center justify-center gap-2"
 			><Icon icon="ph:desktop-fill" width={20} /> Desktop</a
 		>
 		<a

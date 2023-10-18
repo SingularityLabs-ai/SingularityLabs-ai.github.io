@@ -16,8 +16,7 @@
     const emailRegex = /^[a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
 </script>
 
-<section class="mt-20 flex min-h-screen max-w-full flex-col gap-10 overflow-hidden px-4 md:px-0" id="cloud">
-
+<section class="mt-20 flex min-h-screen max-w-full flex-col gap-10 overflow-hidden px-4 md:px-0" id="privacypolicy">
     <div class="flex flex-col items-center gap-8">
         <h1 class="text-left text-3xl font-semibold text-slate-200 sm:text-5xl">
             Privacy Policy <span class="text-base text-slate-400 sm:text-3xl">(detailed)</span>

@@ -7,7 +7,7 @@
 	<div class="flex flex-col gap-5 md:flex-row md:gap-40">
 		<div class="flex h-10 flex-row items-center justify-center gap-2">
 			<img src={logo} alt="" />
-			<h5 class="text-xl font-semibold text-slate-100"><a href="https://singularitylabs-ai.github.io">SingularityLabs</a></h5>
+			<h5 class="text-xl font-semibold text-slate-100"><a href="/">SingularityLabs</a></h5>
 		</div>
 
 		<div class="flex flex-col gap-4 p-4 text-slate-300">
@@ -19,7 +19,7 @@
 			<hr class="mt-4 border-slate-700" />
 			<b>Legal</b>
 			<div class="flex flex-col gap-2 text-sm">
-				<a href="https://singularitylabs-ai.github.io/privacypolicy">Privacy Policy</a>
+				<a href="/privacypolicy">Privacy Policy</a>
 				<a href="">Terms of Service</a>
 			</div>
 		</div>
@@ -27,7 +27,7 @@
 		<div class="flex flex-col gap-4 break-all p-4 text-slate-300">
 			<b>Support</b>
 			<div class="flex flex-col gap-2 text-sm">
-				<a href="https://singularitylabs-ai.github.io#faq" rel="noreferrer">FAQ</a>
+				<a href="/#faq" rel="noreferrer">FAQ</a>
 				<a href="mailto:labssingularity@gmail.com">Email: <span class="text-slate-400">labssingularity@gmail.com</span></a>
 				<a href="https://github.com/orgs/singularitylabs-ai/discussions" target="_blank" rel="noreferrer">GitHub Discussion</a>
 				<a href="https://discord.gg/jc4xtF58Ve" target="_blank" rel="noreferrer">Discord</a>
@@ -46,7 +46,7 @@
 
 	<div class="mt-3 flex flex-row items-center justify-center text-sm text-slate-400">
 		Copyright &copy; {new Date().getFullYear()}&nbsp;
-		<a href="https://singularitylabs-ai.github.io">SingularityLabs</a>
+		<a href="/">SingularityLabs</a>
 	</div>
 
 </footer>
