@@ -2,13 +2,12 @@
 	import DesktopFeatures from '$lib/components/DesktopFeatures.svelte';
 	import DownloadSection from '$lib/components/DownloadSection.svelte';
 	import HeroSection from '$lib/components/HeroSection.svelte';
-	import SingularityLabsCloudSection from '$lib/components/SingularityLabsCloudSection.svelte';
+	import SingularityLabsPrivacypolicSection from '$lib/components/SingularityLabsPrivacypolicSection.svelte';
 </script>
 
 <img src="/background_gradient.png" class="absolute h-full w-full" alt="background gradient" />
 
 <HeroSection />
-<h1>About PP site</h1>
-<SingularityLabsCloudSection />
+<SingularityLabsPrivacypolicSection />
 <DesktopFeatures />
 <DownloadSection />
