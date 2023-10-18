@@ -61,7 +61,7 @@
                 <b>Cookies</b> are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.
             </li>
             <li class="list-square">
-                <b>Country</b> refers to: West Bengal, India
+                <b>Country</b> refers to: India
             </li>
             <li class="list-square">
                 <b>Device</b> means any device that can access the Service such as a computer, a cellphone or a digital tablet.
