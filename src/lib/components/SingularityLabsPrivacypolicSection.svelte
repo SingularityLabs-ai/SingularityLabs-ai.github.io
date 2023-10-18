@@ -148,23 +148,20 @@
 
             The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:
         </p>
-        <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
-
+        <div class="text-left text-slate-400 sm:max-w-2xl sm:text-xl flex flex-col gap-2">
             <li class="list-square">
                 Google
             </li>
             <li class="list-square">
                 Facebook
-
             </li>
             <li class="list-square">
                 Twitter
-
             </li>
             <li class="list-square">
                 LinkedIn
             </li>
-        </p>
+        </div>
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
 
             If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.
@@ -195,7 +192,7 @@
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
             We use both Session and Persistent Cookies for the purposes set out below:
         </p>
-        <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
+        <div class="text-left text-slate-400 sm:max-w-2xl sm:text-xl flex flex-col gap-2">
             <li class="list-square">
                 <b>Necessary / Essential Cookies</b>
                 Type: Session Cookies
@@ -212,7 +209,7 @@
             Type: Persistent Cookies
             Administered by: Us
             Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.
-        </p>
+        </div>
 
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
             For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.
@@ -414,14 +411,14 @@
         If you have any questions about this Privacy Policy, You can contact us:
         </h5>
 
-        <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
+        <div class="text-left text-slate-400 sm:max-w-2xl sm:text-xl flex flex-col gap-2">
             <li class="list-square">
                 By email: labssingularity@gmail.com
             </li>
             <li class="list-square">
                 By visiting this page on our : <a  href='https://github.com/SingularityLabs-ai/'> Github Discussions Page </a>
             </li>
-        </p>
+        </div>
 
     </div>
 </section>
