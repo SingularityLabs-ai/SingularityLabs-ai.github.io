@@ -173,7 +173,6 @@
 
             You may also have the option of sharing additional information with the Company through Your Third-Party Social Media Service's account. If You choose to provide such information and Personal Data, during registration or otherwise, You are giving the Company permission to use, share, and store it in a manner consistent with this Privacy Policy.
         </p>
-        <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
 
 
         <h3 class="text-left text-xl font-semibold text-slate-200 sm:text-3xl">
@@ -184,7 +183,7 @@
             We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:
         </p>
 
-        <p>
+        <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
             <ul>
                 <li class="list-square">
                     <b> Cookies or Browser Cookies.</b> A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.
