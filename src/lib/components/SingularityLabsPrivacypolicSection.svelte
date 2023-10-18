@@ -148,10 +148,11 @@
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
 
             The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:
+        </p>
+        <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
 
             <li class="list-disc">
                 Google
-
             </li>
             <li class="list-disc">
                 Facebook
