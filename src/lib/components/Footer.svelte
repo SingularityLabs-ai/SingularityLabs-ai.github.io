@@ -22,7 +22,7 @@
 				<a href="https://twitter.com/labssingularity" target="_blank" rel="noreferrer">Twitter</a>
 				<a href="https://instagram.com/singuaritylabs" target="_blank" rel="noreferrer">Instagram</a>
 				<a href="https://facebook.com/profile.php?id=100094682281956" target="_blank" rel="noreferrer">Facebook</a>
-				<a https://www.linkedin.com/company/singularity-labs-ai" target="_blank" rel="noreferrer">Linkedin</a>
+				<a href="https://www.linkedin.com/company/singularity-labs-ai" target="_blank" rel="noreferrer">Linkedin</a>
 			</div>
 		</div>
 
