@@ -40,7 +40,7 @@
 			<div class="flex flex-col gap-5 md:flex-row md:gap-40">
 				<div class="flex h-10 flex-row items-center justify-center gap-2">
 					<img src={logo} alt="" />
-					<h5 class="text-xl font-semibold text-slate-100">SingularityLabs</h5>
+					<h5 class="text-xl font-semibold text-slate-100"><a href="https://singularitylabs-ai.github.io">SingularityLabs</a></h5>
 				</div>
 
 				<div class="flex flex-col gap-4 p-4 text-slate-300">
