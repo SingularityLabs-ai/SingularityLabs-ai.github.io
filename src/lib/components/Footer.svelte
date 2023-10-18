@@ -15,7 +15,12 @@
 			<div class="flex flex-col gap-2 text-sm">
 				<a href="https://github.com/SingularityLabs-ai" target="_blank" rel="noreferrer">GitHub Open Source</a>
 				<a href="https://github.com/SingularityLabs-ai/singularitylabs-ai/discussions/categories/ideas" target="_blank">I have an idea</a>
+			</div>
+			<hr class="mt-4 border-slate-700" />
+			<b>Legal</b>
+			<div class="flex flex-col gap-2 text-sm">
 				<a href="https://singularitylabs-ai.github.io/privacypolicy">Privacy Policy</a>
+				<a href="">Terms of Service</a>
 			</div>
 		</div>
 
@@ -27,6 +32,13 @@
 				<a href="https://github.com/orgs/singularitylabs-ai/discussions" target="_blank" rel="noreferrer">GitHub Discussion</a>
 				<a href="https://discord.gg/jc4xtF58Ve" target="_blank" rel="noreferrer">Discord</a>
 			</div>
+			<hr class="mt-4 border-slate-700" />
+			<b>Social</b>
+			<div class="flex flex-col gap-2 text-sm">
+				<a href="https://twitter.com/labssingularity" target="_blank" rel="noreferrer">Twitter</a>
+				<a href="https://instagram.com/singuaritylabs" target="_blank" rel="noreferrer">Instagram</a>
+				<a href="https://facebook.com/profile.php?id=100094682281956" target="_blank" rel="noreferrer">Facebook</a>
+			</div>
 		</div>
 	</div>
 
@@ -34,16 +46,9 @@
 
 	<div class="mt-3 flex flex-row items-center justify-center text-sm text-slate-400">
 		Copyright &copy; {new Date().getFullYear()}&nbsp;
-		<a href="https://github.com">SingularityLabs</a>
+		<a href="https://singularitylabs-ai.github.io">SingularityLabs</a>
 	</div>
 
-	<!-- <div class="flex flex-col gap-4 p-4 text-slate-300">
-	<b>Legal</b>
-	<div class="flex flex-col gap-2 text-sm">
-		<a href="">Privacy Policy</a>
-		<a href="">Terms of Service</a>
-	</div>
-</div> -->
 </footer>
 
 
