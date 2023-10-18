@@ -55,7 +55,7 @@
 				<div class="flex flex-col gap-4 break-all p-4 text-slate-300">
 					<b>Support</b>
 					<div class="flex flex-col gap-2 text-sm">
-						<a href="https://singularitylabs-ai.github.io/#faq" target="_blank" rel="noreferrer">FAQ</a>
+						<a href="https://singularitylabs-ai.github.io#faq" target="_blank" rel="noreferrer">FAQ</a>
 						<a href="mailto:labssingularity@gmail.com">Email: <span class="text-slate-400">labssingularity@gmail.com</span></a>
 						<a href="https://github.com/orgs/singularitylabs-ai/discussions" target="_blank" rel="noreferrer">GitHub Discussion</a>
 						<a href="https://discord.gg/jc4xtF58Ve" target="_blank" rel="noreferrer">Discord</a>
