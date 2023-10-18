@@ -32,15 +32,15 @@
 			We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 		</p>
 
-		<div class="flex flex-col gap-3">
-			<IconList icon="ph:globe" text="SingularityLabs anywhere, anytime, any device" />
-			<IconList icon="ph:hard-drives" text="No GPU or hardware required" />
-			<IconList icon="ph:smiley" text="Productivity Report" />
-			<IconList icon="ph:butterfly" text="10+ models to choose from" />
-			<IconList icon="ph:gauge" text="5x faster than SingularityLabs Desktop" />
-			<IconList icon="ph:video" text="Video Upscaling" />
-			<IconList icon="ph:money" text="Commercial Usage" />
-		</div>
+		<h1 class="text-center text-3xl font-semibold text-slate-200 sm:text-5xl">
+			Interpretation and Definitions
+		</h1>
+		<h2 class="text-center text-3xl font-semibold text-slate-200 sm:text-5xl">
+			Interpretation
+		</h2>
+		<p class="text-center text-slate-400 sm:max-w-2xl sm:text-xl">
+			The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+		</p>
 
 		<div
 			class="flex flex-col gap-8 rounded-3xl bg-gradient-to-t from-slate-800 to-transparent px-4 py-20 sm:px-36"
