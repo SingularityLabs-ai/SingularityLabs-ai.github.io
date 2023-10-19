@@ -38,7 +38,7 @@
 			<b>Legal</b>
 			<div class="flex flex-col gap-2 text-sm">
 				<a href="/privacypolicy">Privacy Policy</a>
-				<a href="">Terms of Service</a>
+				<a href="/termsofservice">Terms of Service</a>
 			</div>
 		</div>
 	</div>
