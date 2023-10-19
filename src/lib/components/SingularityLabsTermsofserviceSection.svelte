@@ -25,15 +25,17 @@
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-lg">
             Last updated: Oct 10, 2023
         </p>
+
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-lg">
-            These Terms of Service (Terms) are a contract between you and [Company Name], Inc., and its affiliates (collectively, "we" or "us") regarding your use of the [Service Name] service (the "Service"). In these Terms, "you" refers to you as an individual and to the organization you represent. By using the Service, you agree to these Terms of Service.
-        </p>
-        <p class="text-left text-slate-400 sm:max-w-2xl sm:text-lg">
-            If you buy a subscription to [Service Name], the Subscriber Terms will also apply. [Service Name] is part of the "Platform" for the purposes of the Platform Terms of Service. Capitalized terms in these Terms of Service that are not defined have the same meaning as they do in the Platform Terms of Service.
+            These Terms of Service (Terms) are a contract between you and Singularity Labs Inc, Inc., and its affiliates (collectively, "we" or "us") regarding your use of the SingularityLabs AI Platform service (the "Service"). In these Terms, "you" refers to you as an individual and to the organization you represent. By using the Service, you agree to these Terms of Service.
         </p>
 
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-lg">
-            If you live in the United States or Canada, you agree that any disputes between you and [Company Name] will be resolved through binding, individual arbitration. This means that you give up your right to participate in a class action lawsuit or class-wide arbitration. We explain this process, some exceptions, and how you can opt out of arbitration in Section 10 of the Platform Terms of Service.
+            If you buy a subscription to SingularityLabs AI Platform, the Subscriber Terms will also apply. SingularityLabs AI Platform is part of the "Platform" for the purposes of the Platform Terms of Service. Capitalized terms in these Terms of Service that are not defined have the same meaning as they do in the Platform Terms of Service.
+        </p>
+
+        <p class="text-left text-slate-400 sm:max-w-2xl sm:text-lg">
+            If you live in the United States or Canada, you agree that any disputes between you and Singularity Labs Inc will be resolved through binding, individual arbitration. This means that you give up your right to participate in a class action lawsuit or class-wide arbitration. We explain this process, some exceptions, and how you can opt out of arbitration in Section 10 of the Platform Terms of Service.
         </p>
 
         <h2 class="text-left text-lg font-semibold text-slate-200 sm:text-4xl">
