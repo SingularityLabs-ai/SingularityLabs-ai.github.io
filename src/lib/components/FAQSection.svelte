@@ -43,7 +43,7 @@
         </h5>
 
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
-            You can use the bots for learning, writing help, translation, programming help, summarization, entertainment, or many other things. We encourage you to explore and discover what Poe is most helpful for in your case.
+            You can use the bots for learning, writing help, translation, programming help, summarization, entertainment, or many other things. We encourage you to explore and discover what Singularity Labs is most helpful for in your case.
         </p>
 
         <h5 class="text-left text-xl font-semibold text-slate-200 sm:text-xl">
@@ -64,20 +64,20 @@
         </p>
 
         <h5 class="text-left text-xl font-semibold text-slate-200 sm:text-xl">
-            Can other people using Poe see my conversations with the bots?
+            Can other people using Singularity Labs see my conversations with the bots?
         </h5>
 
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
-            No. Conversations with bots are private and are not visible to other users of Poe.
+            No. Conversations with bots are private and are not visible to other users of Singularity Labs.
         </p>
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
             If you tap the Share button, you will be prompted to choose any messages you want to share with others, and the messages you select will then be copied to a new share object, which will be visible to whoever you share it with.
         </p>
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
-            If you choose “Share on Poe” as part of the share flow, the messages you have chosen to share will be copied to a post that will be visible to other Poe users.
+            If you choose “Share on Singularity Labs” as part of the share flow, the messages you have chosen to share will be copied to a post that will be visible to other Singularity Labs users.
         </p>
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
-            You can see all of your posts on Poe on your profile, which you can access via the left side menu (accessible from the button in the top left of the screen in the bot conversation view). You can delete any of your posts from the “...” menu, accessible in the top right of the post view.
+            You can see all of your posts on Singularity Labs on your profile, which you can access via the left side menu (accessible from the button in the top left of the screen in the bot conversation view). You can delete any of your posts from the “...” menu, accessible in the top right of the post view.
         </p>
 
         <h5 class="text-left text-xl font-semibold text-slate-200 sm:text-xl">
@@ -88,10 +88,10 @@
         </p>
 
         <h5 class="text-left text-xl font-semibold text-slate-200 sm:text-xl">
-            Who can see what I’ve liked or posts that other Poe users have shared?
+            Who can see what I’ve liked or posts that other Singularity Labs users have shared?
         </h5>
         <p class="text-left text-slate-400 sm:max-w-2xl sm:text-xl">
-            Similar to social media platforms, if you like a post from another user on Poe, other users will be able to see that you liked it. And just like “stories” products on other social media platforms, if you are following the creator of a post, they will be able to see that you have viewed it. You can see who you are following by visiting your profile, accessible from the menu on the left.
+            Similar to social media platforms, if you like a post from another user on Singularity Labs, other users will be able to see that you liked it. And just like “stories” products on other social media platforms, if you are following the creator of a post, they will be able to see that you have viewed it. You can see who you are following by visiting your profile, accessible from the menu on the left.
         </p>
     </div>
 </section>
