@@ -18,6 +18,7 @@
 		Join the beta waitlist for <u class="text-slate-100">free</u>
 	</h3>
 
+    <div class="flex flex-col gap-5">
     <form method="POST" action="https://script.google.com/macros/s/AKfycbyhhb7ueo1PTnhUqTEMXBITXSPji7V8soD21LXm9IYZXzb_0Ffm30wUlu8eh1fuYuSi/exec" id="myform">
         <div class="flex flex-col gap-4">
             <input placeholder="Your Name" name="Name" type="text" bind:value={name} >
@@ -33,6 +34,7 @@
             }
         }}>Subscribe!</button>
     </form>
+    </div>
 
 	<div class="flex flex-col gap-5">
 		<div class="flex flex-col gap-4">
