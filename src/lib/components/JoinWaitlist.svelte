@@ -17,17 +17,18 @@
 	<h3 class="text-center text-3xl font-medium text-slate-300">
 		Join the beta waitlist for <u class="text-slate-100">free</u>
 	</h3>
-<form method="POST" 
-  action="https://script.google.com/macros/s/AKfycbyhhb7ueo1PTnhUqTEMXBITXSPji7V8soD21LXm9IYZXzb_0Ffm30wUlu8eh1fuYuSi/exec"
->
-Name:<br />
-<input name="Name" type="text">
-<br />
-Email:<br />
-  <input name="Email" type="email">
-  
-  <button type="submit">Subscribe!</button>
-</form>
+
+    <form
+        method="POST" 
+        action="https://script.google.com/macros/s/AKfycbyhhb7ueo1PTnhUqTEMXBITXSPji7V8soD21LXm9IYZXzb_0Ffm30wUlu8eh1fuYuSi/exec"
+        id="myform">
+        Name:<br />
+        <input name="Name" type="text">
+        <br />
+        Email:<br />
+        <input name="Email" type="email">
+        <button type="submit">Subscribe!</button>
+    </form>
 
 	<div class="flex flex-col gap-5">
 		<div class="flex flex-col gap-4">
