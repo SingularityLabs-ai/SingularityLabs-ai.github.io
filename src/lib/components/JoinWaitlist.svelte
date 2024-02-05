@@ -23,12 +23,12 @@
         action="https://script.google.com/macros/s/AKfycbyhhb7ueo1PTnhUqTEMXBITXSPji7V8soD21LXm9IYZXzb_0Ffm30wUlu8eh1fuYuSi/exec"
         id="myform">
         Name:<br />
-        <input name="Name" type="text">
+        <input name="Name" type="text" bind:value={name} >
         <br />
         Email:<br />
-        <input name="Email" type="email">
+        <input name="Email" type="email" bind:value={email}>
         <button type="submit" on:click={async () => {
-            if (Name && Email && Name.length < 256 && emailRegex.test(Email)) {
+            if (name && email && name.length < 256 && emailRegex.test(email)) {
                 alert('Thank you for joining the waitlist! We will notify you when SingularityLabs Cloud is ready for you.');
             } else {
                 alert('Please fill in all the fields correctly.');
