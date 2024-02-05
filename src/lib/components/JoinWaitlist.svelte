@@ -24,13 +24,7 @@
             <Input placeholder="Your Name" name="Name" type="text" bind:value={name}>
             <Input placeholder="Your Email" name="Email" type="email" bind:value={email}>
         </div>
-        <button class="ring-ring-500 rounded-full bg-green-600 px-8 py-3 font-medium text-green-200 ring-1 ring-green-500 transition-all duration-500 hover:bg-green-500" type="submit" on:click={async () => {
-            //if (name && email && name.length < 256 && emailRegex.test(email)) {
-                alert('Thank you for joining the waitlist! We will notify you when SingularityLabs Cloud is ready for you.');
-            //} else {
-            //    alert('Please fill in all the fields correctly.');
-            //}
-        }}>Subscribe!</button>
+        <button class="ring-ring-500 rounded-full bg-green-600 px-8 py-3 font-medium text-green-200 ring-1 ring-green-500 transition-all duration-500 hover:bg-green-500" type="submit" on:click={async () => { alert('Thank you for joining the waitlist! We will notify you when SingularityLabs Cloud is ready for you.'); }}>Subscribe!</button>
     </form>
     </div>
 
