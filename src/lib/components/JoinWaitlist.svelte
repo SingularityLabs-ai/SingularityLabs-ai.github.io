@@ -24,6 +24,33 @@
             <Input placeholder="Your Name" bind:value={name} type="name" />
             <Input placeholder="Your Email" bind:value={email} type="email" />
         </div>
+
+        <button
+            class="ring-ring-500 rounded-full bg-green-600 px-8 py-3 font-medium text-green-200 ring-1 ring-green-500 transition-all duration-500 hover:bg-green-500"
+            on:click={async () => {
+                console.log('name', name);
+                console.log('email', email);
+                console.log('nameRegex.test(name)', nameRegex.test(name));
+                console.log('emailRegex.test(email)', emailRegex.test(email));
+                if (name && email && name.length < 256 && emailRegex.test(email)) {
+                    try {
+                    } catch (error) {
+                        alert(
+                            `Thank you ${name}! It seems that your email has already been registered :D If that's not the case, please try again.`
+                        );
+                        return;
+                    }
+                    alert(
+                        'Thank you for joining the waitlist! We will notify you when SingularityLabs Cloud is ready for you.'
+                    );
+                } else {
+                    alert('Please fill in all the fields correctly.');
+                }
+            }}
+        >
+            Subscribe
+        </button>
+
     </div>
 
 	<div class="flex flex-col gap-5">
