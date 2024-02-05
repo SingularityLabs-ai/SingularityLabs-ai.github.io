@@ -68,10 +68,10 @@
 				console.log('emailRegex.test(email)', emailRegex.test(email));
 				if (name && email && name.length < 256 && emailRegex.test(email)) {
 					try {
-						const result = await setDoc(doc(waitlistCollection, email), {
-							name,
-							email
-						});
+						//const result = await setDoc(doc(waitlistCollection, email), {
+						//	name,
+						//	email
+						//});
 					} catch (error) {
 						alert(
 							`Thank you ${name}! It seems that your email has already been registered :D If that's not the case, please try again.`
