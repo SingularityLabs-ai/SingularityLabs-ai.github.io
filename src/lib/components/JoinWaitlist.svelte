@@ -27,7 +27,12 @@
         <br />
         Email:<br />
         <input name="Email" type="email">
-        <button type="submit">Subscribe!</button>
+        <button type="submit"
+            on:click={async () => {
+                alert(
+                    'Thank you for joining the waitlist! We will notify you when SingularityLabs Cloud is ready for you.'
+                );
+            }}>Subscribe!</button>
     </form>
 
 	<div class="flex flex-col gap-5">
